@@ -1,5 +1,14 @@
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+
+[class*="zocial-"]:before {
+	display:inline-block;
+	font-family: "zocial", sans-serif;
+	text-shadow: 3px 3px 3px #aaa;
+	width: 3em;
+}
+
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #757547;
 	font-weight: 300;
 }
