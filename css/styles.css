@@ -6,7 +6,7 @@ body {
 
 hr {
 	height: 2px;
-	background-color: #BCBBBB;
+	background-color: #bcbbbb;
 }
 
 .container {
@@ -14,7 +14,7 @@ hr {
 }
 
 .text-muted {
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 .text-thin {
 	font-weight: 100;
